@@ -1,15 +1,15 @@
-I see that a LOT of people are having trouble with the tool not working. I will improve it when I have time ≽^•⩊•^≼
+Fork of [Generic Name](https://github.com/GenericName1911)'s [SC-Zip-Tools](https://github.com/GenericName1911/SC-Zip-Tools)
 
-Rest assured, it'll be fixed.
+Having trouble dragging and dropping? This fork Opens a file browser upon opening the compressor/decompressor, allowing you to manually pick the csv/toml file in the browser and it will proceed with the decompressing/ compressing
 
 ---
 # SC-Zip-Tools
 
-These tools are used for compressing/decompressing Supercell's game assets, _specifically_ for CSV and TOML files. Just drag and drop the files onto the tool (OR use it via CLI arguments), and it will do the work for you. Make sure to run `setup.py` before using any scripts!
+These tools are used for compressing/decompressing Supercell's game assets, _specifically_ for CSV and TOML files. Just select either the decompressor or compressor, select your file, and it will do the work for you. Make sure to run `setup.py` before using any scripts!
 
 The `.pyw` ([python no-console extension](https://docs.python.org/2/using/windows.html#executing-scripts)) file should be run using `Python`. It has been used to prevent unnecessary console flashing. If you are unable to run `.pyw` files, rename them to `.py` . Requires Python version >=3.5
 
-Video Demonstration: https://youtu.be/hHuo5Bfy3pQ
+Video Demonstration: [https://youtu.be/hHuo5Bfy3pQ](https://youtu.be/kEuZ27-aw70)
 
 For any errors or feedback, feel free to message me anytime on discord `@generic_name_1911`.
 

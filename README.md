@@ -3,7 +3,7 @@ Fork of [Generic Name](https://github.com/GenericName1911)'s [SC-Zip-Tools](http
 Having trouble dragging and dropping? This fork Opens a file browser upon opening the compressor/decompressor, allowing you to manually pick the csv/toml file in the browser and it will proceed with the decompressing/ compressing
 
 ---
-# SC-Zip-Tools
+# SC-Compression-Tools
 
 These tools are used for compressing/decompressing Supercell's game assets, _specifically_ for CSV and TOML files. Just select either the decompressor or compressor, select your file, and it will do the work for you. Make sure to run `setup.py` before using any scripts!
 
